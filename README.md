@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/aaarajuan/aaarajuan/blob/main/img/Shutterstock-lqkMYchQGJ.jpg)](https://aaarajuan.github.io)
 
 <h1 align="center">Hi 👋, I'm AL-ARASHAD AHMED RAJUAN</h1>
-<h3 align="center">A passionate "Web Developer" from Bangladesh</h3>
+<h3 align="center">A student learning "Web Development" at Programming Hero, from Bangladesh.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaarajuan&label=Profile%20views&color=0e75b6&style=flat" alt="aaarajuan" /> </p>
