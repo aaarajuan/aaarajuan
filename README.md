@@ -9,10 +9,9 @@
 
 ### About Me 🚀
 <!--- 🔭 I’m currently working on [demo](#) -->
-
-- 🌱 I’m currently learning: **Complete Web Development by Programming Hero**
-  
 - 😄 Pronouns: **He/him/his**
+ 
+- 🌱 I’m currently learning: **Complete Web Development by Programming Hero**
 <!--- 👯 I’m looking to collaborate on [demo](#)
 
 - 🤝 I’m looking for help with [demo](#) -->
