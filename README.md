@@ -72,7 +72,8 @@
   <p align="center">
     <a href="ttps://github.com/aaarajuan/aaarajuan"><img alt="Al-Arashad Ahmed Rajuan's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aaarajuan&theme=highcontrast"/></a>
     <a href="https://github.com/aaarajuan/aaarajuan"><img alt="Al-Arashad Ahmed Rajuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aaarajuan&show_icons=true&theme=merko" width=55%/></a>
-    <a href="[https://github.com/mitul3737/mitul3737](https://github.com/aaarajuan/aaarajuan)"><img alt="Al-Arashad Ahmed Rajuan's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaarajuan&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+    <a href="https://github.com/aaarajuan/aaarajuan"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaarajuan&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+
 </details>
 
 <!--
