@@ -72,7 +72,7 @@
   <p align="center">
     <a href="ttps://github.com/aaarajuan/aaarajuan"><img alt="Al-Arashad Ahmed Rajuan's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aaarajuan&theme=highcontrast"/></a>
     <a href="https://github.com/aaarajuan/aaarajuan"><img alt="Al-Arashad Ahmed Rajuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aaarajuan&show_icons=true&theme=merko" width=55%/></a>
-    <img alt="Al-Arashad Ahmed Rajuan's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaarajuan&theme=gruvbox&layout=compact&langs_count=8&" width=40%/>
+    <a href="https://github.com/aaarajuan/aaarajuan"><img alt="Al-Arashad Ahmed Rajuan's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaarajuan&theme=gruvbox&layout=compact&langs_count=8&" width=40%/></a>
 
 </details>
 
