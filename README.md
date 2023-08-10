@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Al-Arashad Ahmed Rajuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaarajuan&theme=github-compact&title_color=51DD5DFF&hide_border=true)
+![Al-Arashad Ahmed Rajuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaarajuan&theme=github-compact&title_color=51DD5DFF&hide_border=true)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aaarajuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaarajuan" /></a><a href="https://ko-fi.com/aaarajuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aaarajuan" /></a></p>
